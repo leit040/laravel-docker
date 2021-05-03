@@ -12,7 +12,7 @@
     @livewireStyles
 </head>
 <body style="background: #4a5568">
-<div class="container-xxl" >
+<div class="container" >
     <header class="w-25 mx-auto" style="background: #4a5568">
  <span class="border border-1" style="font-size: xx-large; background: #a0aec0">Exchange currency</span>
     </header>
